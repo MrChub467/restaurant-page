@@ -3,7 +3,7 @@ import home from "./home.js";
 import about from "./about.js";
 import locations from "./locations.js";
 import menu from "./menu.js";
-
+// Hello Micah Smith
 
 (function () {
   "use strict"
